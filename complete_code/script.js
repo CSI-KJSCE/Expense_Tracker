@@ -7,10 +7,7 @@ const text = document.getElementById("text");
 const amount = document.getElementById("amount");
 const notification = document.getElementById("notification");
 
-
-
 let transactions = [];
-
 
 function showNotification() {
   notification.classList.add("show");
@@ -83,7 +80,5 @@ function init() {
   transactions.forEach(addTransactionDOM);
   updateValues();
 }
-
-init();
 
 form.addEventListener("submit", addTransaction);
