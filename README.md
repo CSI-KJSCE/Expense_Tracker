@@ -33,4 +33,4 @@ The expense tracker was built using the following technologies:
 - [Stack Overflow](https://stackoverflow.com/)
 - [CSS Tricks](https://css-tricks.com/)
 
-## Live Website Link [Expense Tracker](https://csi-kjsce.github.io/Expense_Tracker/)
+### Live Website Link: [Expense Tracker](https://csi-kjsce.github.io/Expense_Tracker/)
