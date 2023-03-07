@@ -7,6 +7,7 @@ To get started with the project, you can clone the repository using the followin
 ```bash
 git clone https://github.com/CSI-KJSCE/expense-tracker.git
 cd complete_code # This is the complete code for the project
+# OR
 cd starter_code # Starter code to make the project from scratch
 ```
 Once you have cloned the repository, you can open the /complete_code/index.html file in your browser to see the expense tracker in action.
